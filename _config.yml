@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Thomas Finn"
+title                    : "Thomas Finn's Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Thomas Finn"
 description              : &description "personal description"
 url                      : https://thomasjfinn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Thomas Finn"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Mathematician @ Durham University"
+  location         : "Durham, UK"
+  employer         : "Durham University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "thomasjohnfinn1995@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
