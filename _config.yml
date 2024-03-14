@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Thomas Finn's Personal Website"
+title                    : "Thomas' Homepage"
 title_separator          : "-"
 name                     : &name "Thomas Finn"
 description              : &description "personal description"
