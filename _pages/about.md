@@ -11,7 +11,7 @@ redirect_from:
 
 🔬 My research uses probabilistic techniques to understand phenomena in random systems.
 
-🤖 I have a strong interest AI safety and ensuring advances in machine learning benefits humanity.
+🤖 I have a strong interest deep, learning, AI safety and ensuring advances in machine learning benefits humanity.
 
 # Overview
 
