@@ -9,7 +9,7 @@ redirect_from:
 
 🏫 I'm a mathematician at Durham University.
 
-🔬 My research uses probabilistic techniques to understand phenomena in random systems.
+🔬 I enjoy using probabilistic techniques to understand phenomena in complex systems.
 
 🤖 I have a strong interest in deep learning, AI safety and ensuring advances in machine learning benefits humanity.
 
