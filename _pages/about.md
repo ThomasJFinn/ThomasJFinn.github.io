@@ -31,4 +31,4 @@ I'm a member of the [SatisfIA](https://pik-gane.github.io/satisfia/) research gr
 
 ## ♘ Chess improvement
 
-After starting to play in late 2022, chess improvement is one of my favourite hobbies and I blog my journey here.
+After starting to play in late 2022, chess improvement is one of my favourite hobbies and I document my journey here.
