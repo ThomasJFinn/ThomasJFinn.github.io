@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /chess/
 title: "Markdown"
 author_profile: true
 redirect_from: 
