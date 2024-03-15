@@ -17,7 +17,7 @@ main:
     url: /portfolio/
 
   - title: "Mathematics"
-    url: /publications/
+    url: /mathematics/
     
   - title: "Chess"
     url: /markdown/
