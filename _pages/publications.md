@@ -9,7 +9,7 @@ My mathematical research interests revolve around understanding the large-scale 
 
 In my current position at Durham University, I work with [Sunil Chhita](https://www.durham.ac.uk/staff/sunil-chhita/) to investigate the rough-smooth boundary in the two-periodic Aztec diamond.
 
-I completed my PhD at the [SAMBa](https://samba.ac.uk/) centre for doctoral training in statistical applied mathematics at the University of Bath under the supervision of [Alexandre Stauffer](https://sites.google.com/site/alexandrestauffer/home). My thesis was awarded the Royal Statistical Society prize for best in the field of applied probability completed between 2020 and 2022. During my completion of SAMBa I also completed a Master of Research with a focus on machine learning, applied statistics and numerical linear algebra.
+I completed my PhD at the [SAMBa](https://samba.ac.uk/) centre for doctoral training in statistical applied mathematics at the University of Bath under the supervision of [Alexandre Stauffer](https://sites.google.com/site/alexandrestauffer/home). My thesis was awarded the Royal Statistical Society prize for best in the field of applied probability completed between 2020 and 2022. At SAMBa I also completed a Master of Research with a focus on machine learning, applied statistics and numerical linear algebra.
 
 ## Publications
 
