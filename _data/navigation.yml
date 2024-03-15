@@ -8,7 +8,7 @@ main:
   #  url: /teaching/    
         
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
     
   - title: "CV"
     url: /files/ThomasFinn_Resume.pdf
