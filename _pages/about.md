@@ -25,7 +25,7 @@ My research on phase transitions in random competition models is published in th
 
 ## 🚨 AI safety
 
-I'm participating in the [BlueDot Impact](https://aisafetyfundamentals.com/) early 2024 AI alignment course to learn the state-of-the-art in AI safety.
+I'm participating in the [BlueDot Impact](https://aisafetyfundamentals.com/) early 2024 AI alignment course to learn more about problems in AI alignment.
 
 I'm a member of the [SatisfIA](https://pik-gane.github.io/satisfia/) research group to investigate aspiration-based reinforcement learning.
 
