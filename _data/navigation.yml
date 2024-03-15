@@ -13,10 +13,10 @@ main:
   - title: "CV"
     url: /files/ThomasFinn_Resume.pdf
 
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
 
-  - title: "Research"
+  - title: "Mathematics"
     url: /publications/
     
   - title: "Chess"
