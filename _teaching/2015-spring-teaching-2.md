@@ -1,9 +1,9 @@
 ---
 title: "Finn - Robson, 2024-03-13"
 collection: teaching
-type: "Classical"
-permalink: /chess/finnrobson130323
-venue: "Durham"
+type: "Durham"
+permalink: /chess/finnrobson120324
+venue: "Caro-Kann Defense, Karpov Variation, 5.Ng5"
 date: 2024-03-13
 location: "Antioch house"
 ---
