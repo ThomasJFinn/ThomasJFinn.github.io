@@ -1,14 +1,14 @@
 ---
 title: "Finn - Robson, 13-03-2023"
 collection: teaching
-type: ""
+type: "Classical"
 permalink: /teaching/finnrobson130323
-venue: ""
+venue: "Durham"
 date: 2015-01-01
-location: ""
+location: "Antioch house"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Black resigns on move 16 after a sharp opening from 5.♘g5 in the Caro-Kann Defence, Karpov Variation.
 
 Test
 
