@@ -48,7 +48,7 @@ Black centralises the knight in the hope to force some exchanges. However, there
 
 **12.Re1 N7f6 13.Rb1 Qa3 14.Qe2**
 
-12.c4 is even stronger, evicting the knight and obtaining and strangehold on the centre. 
+12.c4 is even stronger, evicting the knight and obtaining and stranglehold on the centre. 
 
 **14...b6**
 
