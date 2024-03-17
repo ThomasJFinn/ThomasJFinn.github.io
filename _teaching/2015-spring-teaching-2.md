@@ -8,6 +8,7 @@ date: 2024-03-13
 location: "Antioch house"
 ---
 
-# Title
+# 5.Ng5!? in the Caro-Kann Defense, Karpov Variation
 
-Test
+If black enters the Caro-Kann Defense, Karpov Variation without knowing about 5.Ng5!?, then they must navigate a narrow path to equality. In this game, black misses a chance to stabilise and struggles to coordinate their pieces. With a king stranded in the centre and loss of material imminent, black resigns on move 16.
+
