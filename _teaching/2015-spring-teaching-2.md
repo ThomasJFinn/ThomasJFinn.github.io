@@ -8,8 +8,6 @@ date: 2024-03-13
 location: "Antioch house"
 ---
 
-Caro-Kann Defense, Karpov Variation, 5.Ng5!?
-
 # Title
 
 Test
