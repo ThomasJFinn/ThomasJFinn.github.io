@@ -1,15 +1,15 @@
 ---
-title: "Finn - Robson, 13-03-2023"
+title: "Finn - Robson, 2024-03-13"
 collection: teaching
 type: "Classical"
 permalink: /teaching/finnrobson130323
 venue: "Durham"
-date: 2015-01-01
+date: 2024-03-13
 location: "Antioch house"
 ---
 
-Black resigns on move 16 after a sharp opening from 5.♘g5 in the Caro-Kann Defence, Karpov Variation.
+Caro-Kann Defense, Karpov Variation, 5.Ng5!?
 
-Test
+# Title
 
 Test
