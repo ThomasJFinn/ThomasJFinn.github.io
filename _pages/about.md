@@ -10,9 +10,11 @@ redirect_from:
 ![Text](/images/Designer.png){: .align-right width="300px"}
 🏫 I'm a mathematician at Durham University.
 
-🔬 I enjoy using probabilistic techniques to understand strongly correlated random processes.
+🔬 My research focuses on phase transitions in strongly correlated random processes inspired by models in physics and computer science.
 
 🤖 I have a strong interest in deep learning, AI safety and ensuring advances in machine learning benefits humanity.
+
+🦾 Please contact me if you're excited to discuss anything on my website in more detail!
 
 ## ∞ Mathematical research
 
