@@ -26,6 +26,8 @@ Moving the same piece three times in a row in the opening seems to be breaking o
 
 **5...Ngf6 6.Bd3 h6 7.Ne6**
 
+![text](/images/finnrobson/FinnRobson2.png){:width="300px"}
+
 6...e6 is preferable to 6...h6. While the bishop on c8 is behind the pawn chain, it allows black to develop the bishop on f8 and castle kingside. 6...h6 also weakens the g6 square and the knight cannot be captured due to 7...fex6?? 8.Bg6#. 
 
 The sharp nature of the position is illuminated in the famous *Deep Blue - Kasparov, Game 6, 1997*. Here, Kasparov opts for 6...e6 7.N1f3 h6? 8.Nxe6! The theory is that Kasparov did not believe that Deep Blue had the ability to correctly evaluate that it would have enough compensation for the knight sacrifice. Kasparov resigned on move 19. The story is complicated by the fact that Deep Blue had 8.Nxe6 programmed into its opening book by experts and would not have played it on its' own terms. Modern computer engines do find the critical sacrifice.
