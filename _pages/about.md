@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+![Text](/images/Designer.png){: .align-right width="300px"}
 🏫 I'm a mathematician at Durham University.
 
 🔬 I enjoy using probabilistic techniques to understand phenomena in complex systems.
