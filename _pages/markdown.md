@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
+![Text](/images/DeepDarkForest.png){: .align-right width="300px"}
 My knowledge of chess before December 2022 included only the basic rules. Castling was mysterious and en passant was beyond my comprehension. After playing for a while, I learned to love the process of improving and now treat chess improvement as one of my main hobbies. 
 
 ## Selected games
