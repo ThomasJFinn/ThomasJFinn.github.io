@@ -8,17 +8,17 @@ date: 2024-03-13
 location: "Antioch house"
 ---
 
-Black misses an opportunity to stabilise after a sharp opening and contends with a king that is stranded in the centre. Unable to untangle their position and with material loss inevitable, black resigns on move 16. 
+The Karpov Variation of the Caro-Kann Defense is often associated with a slow, positional game. The interesting 5.Ng5 chooses to throw the game into a sharp, tactical battle early on and black must navigate with caution. In this selected game, black misses an opportunity to stabilise from the opening and must choose between losing their queen or losing their king on move 16, leading to resignation.
 
 **1.e4 c6 2.d4 d5 3.Nc3 dex4 4.Nex4 Nd7**
 
-The idea behind 4...Nd7 is to prepare for ...Ngf6 to displace white's central knight. The immediate 4...Nf6 concedes the doubling of pawns but is perfectly playable for black. The most popular response is 4...Bf5 but we do not venture into the mainline here. 
+The idea behind 4...Nd7 is to prepare for ...Ngf6 to displace white's central knight. The immediate 4...Nf6 concedes the doubling of pawns but is perfectly playable for black. The traditional main line is 4...Bf5. 
 
 **5.Ng5!?**
 
 Moving the same piece three times in a row in the opening seems to be breaking open principles. When analysing this line in Anand-Bologan, 2003, Graham Burgess in *The Mammoth Book of the World's Greatest Chess Games* notes that general principles are trumped by concrete play. The knight on d7 seems misplaced and sacrificial ideas revolving around the f7 square are immediate. 
 
-5...h6? is met by the awkward 6.Ne6. The knight is immune to capture and black must navigate an unpleasant opening phase.
+5...h6? is met by the awkward 6.Ne6. The knight is immune to capture and black must navigate the opening with the knight on e6 a thorn in their side.
 
 5...Nb6 attempts to untangle but has used two moves to put the knight on a poor square. 
 
