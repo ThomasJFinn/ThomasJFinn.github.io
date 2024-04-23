@@ -16,7 +16,7 @@ The idea behind 4...Nd7 is to prepare for ...Ngf6 to displace white's central kn
 
 **5.Ng5!?**
 
-Moving the same piece three times in a row in the opening seems to be breaking open principles. When analysing this line in Anand-Bologan, 2003, Graham Burgess in *The Mammoth Book of the World's Greatest Chess Games* notes that general principles are trumped by concrete play. The knight on d7 seems misplaced and sacrificial ideas revolving around the f7 square are immediate. 
+Moving the same piece three times in a row seems to be breaking opening principles. When analysing this line in Anand-Bologan, 2003, Graham Burgess in *The Mammoth Book of the World's Greatest Chess Games* notes that general principles are trumped by concrete play. The knight on d7 looks misplaced and sacrificial ideas revolving around the f7 square are immediate. 
 
 5...h6? is met by the awkward 6.Ne6. The knight is immune to capture and black must navigate the opening with the knight on e6 a thorn in their side.
 
