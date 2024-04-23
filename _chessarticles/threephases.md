@@ -1,6 +1,6 @@
 ---
 title: "The three phases of a chess game"
-collection: teaching
+collection: chessarticles
 type: "Tupe"
 permalink: /chess/threephases
 venue: "Venue"
