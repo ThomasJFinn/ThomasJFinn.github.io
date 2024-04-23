@@ -1,14 +1,16 @@
 ---
-title: "Finn - Robson, 2024-03-13"
+title: "A miniature with the dangerous 5.Ng5 in the Caro-Kann Defense, Karpov Variation"
 collection: teaching
-type: "Durham"
-permalink: /chess/finnrobson120324
-venue: "Caro-Kann Defense, Karpov Variation, 5.Ng5"
+type: "Type"
+permalink: /chess/5ng5
+venue: "Venue"
 date: 2024-03-13
-location: "Antioch house"
+location: "Location"
 ---
 
-The Karpov Variation of the Caro-Kann Defense is often associated with a slow, positional game. The interesting 5.Ng5 chooses to throw the game into a sharp, tactical battle early on and black must navigate with caution. In this selected game, black misses an opportunity to stabilise from the opening and must choose between losing their queen or losing their king on move 16, leading to resignation.
+The Karpov Variation of the Caro-Kann Defense is often associated with a slow, positional game. The interesting 5.Ng5 chooses to throw the game into a sharp, tactical battle early on and black must navigate with caution. The following miniature highlights some of the venom behind 5.Ng5 and how black can lose quickly if they do not sense the danger. Here, black resigns on move 16 when faced with losing their queen or losing their king.
+
+*Finn-Robson, Durham, 2024-03-13*
 
 **1.e4 c6 2.d4 d5 3.Nc3 dex4 4.Nex4 Nd7**
 
