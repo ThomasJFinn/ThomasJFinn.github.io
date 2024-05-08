@@ -14,4 +14,4 @@ author_profile: true
 
 ### AI alignment
  - *Human Compatible*, Stuart Russell
-
+ - [AI safety fundamentals course](https://course.aisafetyfundamentals.com/alignment)
