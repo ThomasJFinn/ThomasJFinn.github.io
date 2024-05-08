@@ -19,4 +19,4 @@ author_profile: true
 ### Interpretability
  - [Transformer circuits thread](https://transformer-circuits.pub/)
  - [Distill circuits thread](https://distill.pub/2020/circuits/)
- - [devinterp resource lists](https://devinterp.com/resources)
+ - [devinterp resource list](https://devinterp.com/resources)
