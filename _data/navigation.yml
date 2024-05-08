@@ -14,7 +14,7 @@ main:
     url: /files/ThomasFinn_Resume.pdf
 
   - title: "Deep Learning"
-    url: /portfolio/
+    url: /deeplearning/
 
   - title: "Mathematics"
     url: /mathematics/
