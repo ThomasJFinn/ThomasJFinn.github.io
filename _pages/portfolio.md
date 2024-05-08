@@ -13,4 +13,5 @@ author_profile: true
 ## Resources
 
 ### AI alignment
+ - *Human Compatible*, Stuart Russell
 
