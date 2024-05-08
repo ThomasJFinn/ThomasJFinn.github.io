@@ -23,3 +23,4 @@ author_profile: true
  - [Transformer circuits thread](https://transformer-circuits.pub/)
  - [Distill circuits thread](https://distill.pub/2020/circuits/)
  - [devinterp resource list](https://devinterp.com/resources)
+ - [Neel Nanda's *Concrete Steps to Get Started in Transformer Mechanistic Interpretability*](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
