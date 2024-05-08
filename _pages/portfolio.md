@@ -12,6 +12,9 @@ author_profile: true
 
 ## Resources
 
+### Deep learning
+ - [Jacob Hilton's deep learning curriculum](https://github.com/jacobhilton/deep_learning_curriculum) (Challenging but has list of prerequisite resources)
+
 ### AI alignment
  - [*Human Compatible*, Stuart Russell](https://www.amazon.co.uk/Human-Compatible-AI-Problem-Control/dp/0141987502/ref=asc_df_0141987502/?tag=googshopuk-21&linkCode=df0&hvadid=428082383682&hvpos=&hvnetw=g&hvrand=6810960191934502209&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006688&hvtargid=pla-905455320169&psc=1&mcid=008b6200477836d7b2eccb17d3027b6a&th=1&psc=1&tag=&ref=&adgrpid=103526072310&hvpone=&hvptwo=&hvadid=428082383682&hvpos=&hvnetw=g&hvrand=6810960191934502209&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006688&hvtargid=pla-905455320169)
  - [AI safety fundamentals course](https://course.aisafetyfundamentals.com/alignment)
