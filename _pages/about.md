@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ![Text](/images/Designer.png){: .align-right width="300px"}
-🏫 I'm a mathematician at Durham University.
+🏫 I'm a junior data scientist at TEXT.
 
-🔬 My research focuses on phase transitions in strongly correlated random processes inspired by models in physics and computer science.
+🔬 Previously I research phase transitions in strongly correlated random processes that are inspired by models in physics and computer science.
 
 🤖 I have a strong interest in deep learning, AI safety and ensuring advances in machine learning benefits humanity.
 
@@ -27,8 +27,6 @@ My research on phase transitions in random competition models is published in th
 ## 🚨 AI safety
 
 I'm participating in the [BlueDot Impact](https://aisafetyfundamentals.com/) early 2024 AI alignment course to learn more about problems in AI alignment.
-
-I'm a member of the [SatisfIA](https://pik-gane.github.io/satisfia/) research group to investigate aspiration-based reinforcement learning.
 
 ## ♘ Chess improvement
 
