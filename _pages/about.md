@@ -10,7 +10,7 @@ redirect_from:
 ![Text](/images/Designer.png){: .align-right width="300px"}
 🏫 I'm a junior data scientist at TEXT.
 
-🔬 Previously I research phase transitions in strongly correlated random processes that are inspired by models in physics and computer science.
+🔬 Previously I was a mathematician working in probability theory.
 
 🤖 I have a strong interest in deep learning, AI safety and ensuring advances in machine learning benefits humanity.
 
@@ -18,9 +18,9 @@ redirect_from:
 
 ## ∞ Mathematical research
 
-I completed my PhD at the [SAMBa](https://samba.ac.uk/) centre for doctoral training in statistical applied mathematics.
+I completed my PhD at the [SAMBa](https://samba.ac.uk/) centre for doctoral training in statistical applied mathematics and held postdoctoral research positions at Durham University and the University of Bath.
 
-My thesis received the [Royal Statistical Society prize](https://www.bath.ac.uk/announcements/the-royal-statistical-society-prize-awarded/)  in applied probability (2020-2022) and the Edward Fraenkel prize (2021-2022) in the Department of Mathematical Sciences at the University of Bath.
+My thesis received the [Royal Statistical Society prize](https://www.bath.ac.uk/announcements/the-royal-statistical-society-prize-awarded/)  in applied probability (2020-2022) and the Edward Fraenkel prize for best thesis (2021-2022) in the Department of Mathematical Sciences at the University of Bath.
 
 My research on phase transitions in random competition models is published in the [Journal of the European Mathematical Society](https://ems.press/journals/jems/articles/8736482) and the [Annals of Applied Probability](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-6/Coexistence-in-competing-first-passage-percolation-with-conversion/10.1214/22-AAP1792.short).
 
