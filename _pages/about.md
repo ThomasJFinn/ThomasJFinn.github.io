@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) where
- - I build world-class machine learning models to prevent fraud,
- - Apply theory to solve diverse problems on large and dynamic datasets,
- - Collaborate across teams to deliver industry leading solutions.
+ - I build world-class machine learning models to prevent fraud
+ - Apply theory to solve diverse problems on large and dynamic datasets
+ - Collaborate across teams to deliver industry leading solutions
 
 ![Text](/images/Designer.png){: .align-right width="150px"}
 
