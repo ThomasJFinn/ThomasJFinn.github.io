@@ -24,8 +24,8 @@ Before joining Featurespace I researched strongly correlated random systems.
 
 ### Publications
 
-* F., Stauffer, [Non-equilibrium multi-scale analysis and coexistence in competing first-passage percolation](https://ems.press/journals/jems/articles/8736482), Journal of the European Mathematical Society
-* F., Stauffer, [Coexistence in competing first-passage percolation with conversion](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-6/Coexistence-in-competing-first-passage-percolation-with-conversion/10.1214/22-AAP1792.short), Annals of Applied Probability
+* [Non-equilibrium multi-scale analysis and coexistence in competing first-passage percolation](https://ems.press/journals/jems/articles/8736482)
+* [Coexistence in competing first-passage percolation with conversion](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-6/Coexistence-in-competing-first-passage-percolation-with-conversion/10.1214/22-AAP1792.short)
 
 
 I completed my PhD at the [SAMBa](https://samba.ac.uk/) centre for doctoral training in statistical applied mathematics and held postdoctoral research positions at Durham University and the University of Bath.
