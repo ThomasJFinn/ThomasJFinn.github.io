@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 ![Text](/images/Designer.png){: .align-right width="300px"}
-🏫 I'm a junior data scientist at TEXT.
+🏫 I'm a junior data scientist at [https://www.featurespace.com/](Featurespace) where
+ - I build world-class machine learning models to prevent fraud,
+ - Apply theory to solve diverse problems on large and dynamic datasets,
+ - Collaborate across teams to deliver industry leading solutions.
 
 🔬 Previously I was a mathematician working in probability theory.
 
