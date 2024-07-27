@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) where I build world-class machine learning models on large, dynamic datasets to prevent fraud in real-time. 
+I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) where I build machine learning models on large, dynamic datasets to prevent fraud in real-time. 
 
 ## Mathematical research
 
