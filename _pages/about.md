@@ -11,8 +11,6 @@ I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) whe
  - Apply theory to solve diverse problems on large and dynamic datasets
  - Collaborate across teams to deliver industry leading solutions
 
-![Text](/images/Designer.png){: .align-right width="150px"}
-
 ## Mathematical research
 
 Before joining Featurespace I researched strongly correlated random systems.
@@ -37,3 +35,5 @@ I'm participating in the [BlueDot Impact](https://aisafetyfundamentals.com/) ear
 ## ♘ Chess improvement
 
 After starting to play in late 2022, chess improvement is one of my favourite hobbies and I document my journey here.
+
+![Text](/images/Designer.png){: .align-right width="150px"}
