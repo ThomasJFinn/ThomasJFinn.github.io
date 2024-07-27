@@ -13,13 +13,22 @@ I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) whe
 
 ![Text](/images/Designer.png){: .align-right width="150px"}
 
-## ∞ Mathematical research
+## Mathematical research
+
+Before joining Featurespace I researched strongly correlated random systems.
+
+### Awards
+
+* [Royal Statistical Society prize](https://www.bath.ac.uk/announcements/the-royal-statistical-society-prize-awarded/)  in applied probability (2020-2022)
+* Edward Fraenkel prize for best thesis (2021-2022) in the Department of Mathematical Sciences at the University of Bath
+
+### Publications
+
+* F., Stauffer, [Non-equilibrium multi-scale analysis and coexistence in competing first-passage percolation](https://ems.press/journals/jems/articles/8736482), Journal of the European Mathematical Society
+* F., Stauffer, [Coexistence in competing first-passage percolation with conversion](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-6/Coexistence-in-competing-first-passage-percolation-with-conversion/10.1214/22-AAP1792.short), Annals of Applied Probability
+
 
 I completed my PhD at the [SAMBa](https://samba.ac.uk/) centre for doctoral training in statistical applied mathematics and held postdoctoral research positions at Durham University and the University of Bath.
-
-My thesis received the [Royal Statistical Society prize](https://www.bath.ac.uk/announcements/the-royal-statistical-society-prize-awarded/)  in applied probability (2020-2022) and the Edward Fraenkel prize for best thesis (2021-2022) in the Department of Mathematical Sciences at the University of Bath.
-
-My research on phase transitions in random competition models is published in the [Journal of the European Mathematical Society](https://ems.press/journals/jems/articles/8736482) and the [Annals of Applied Probability](https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-6/Coexistence-in-competing-first-passage-percolation-with-conversion/10.1214/22-AAP1792.short).
 
 ## 🚨 AI safety
 
