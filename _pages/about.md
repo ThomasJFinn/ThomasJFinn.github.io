@@ -10,7 +10,7 @@ I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) whe
 
 ## Research Career
 
-Before joining Featurespace I researched strongly correlated random systems in postdoctoral research positions at Durham University and the University of Bath.
+Before joining Featurespace I researched strongly correlated random systems in postdoctoral positions at Durham University and the University of Bath.
 
 I completed my PhD at the [SAMBa](https://samba.ac.uk/) centre for doctoral training in statistical applied mathematics.
 
