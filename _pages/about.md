@@ -18,5 +18,3 @@ I completed my PhD at [SAMBa](https://samba.ac.uk/) investigating random competi
 
 * [Royal Statistical Society prize](https://www.bath.ac.uk/announcements/the-royal-statistical-society-prize-awarded/) for best PhD thesis  in applied probability (2020-2022)
 * Edward Fraenkel prize for best PhD thesis (2021-2022)
-
-![Text](/images/Designer.png){: .align-left width="250px"}
