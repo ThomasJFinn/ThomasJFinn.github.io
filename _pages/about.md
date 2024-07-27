@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![Text](/images/Designer.png){: .align-right width="150px"}
 🏫 I'm a junior data scientist at [Featurespace]([Featurespace](https://www.featurespace.com/)) where
  - I build world-class machine learning models to prevent fraud,
  - Apply theory to solve diverse problems on large and dynamic datasets,
@@ -18,6 +16,8 @@ redirect_from:
 🤖 I have a strong interest in deep learning, AI safety and ensuring advances in machine learning benefits humanity.
 
 🦾 Please contact me if you're excited to discuss anything on my website in more detail!
+
+![Text](/images/Designer.png){: .align-right width="150px"}
 
 ## ∞ Mathematical research
 
