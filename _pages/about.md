@@ -6,16 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🏫 I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) where
+I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) where
  - I build world-class machine learning models to prevent fraud,
  - Apply theory to solve diverse problems on large and dynamic datasets,
  - Collaborate across teams to deliver industry leading solutions.
-
-🔬 Previously I was a mathematician working in probability theory.
-
-🤖 I have a strong interest in deep learning, AI safety and ensuring advances in machine learning benefits humanity.
-
-🦾 Please contact me if you're excited to discuss anything on my website in more detail!
 
 ![Text](/images/Designer.png){: .align-right width="150px"}
 
