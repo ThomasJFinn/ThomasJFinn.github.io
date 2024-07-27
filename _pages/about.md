@@ -19,8 +19,8 @@ Before joining Featurespace I researched strongly correlated random systems.
 
 ### Awards
 
-* [Royal Statistical Society prize](https://www.bath.ac.uk/announcements/the-royal-statistical-society-prize-awarded/)  in applied probability (2020-2022)
-* Edward Fraenkel prize for best thesis (2021-2022) in the Department of Mathematical Sciences at the University of Bath
+* [Royal Statistical Society prize](https://www.bath.ac.uk/announcements/the-royal-statistical-society-prize-awarded/) for best PhD thesis  in applied probability (2020-2022)
+* Edward Fraenkel prize for best PhD thesis (2021-2022)
 
 ### Publications
 
