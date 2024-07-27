@@ -24,9 +24,9 @@ author:
   avatar           : "PP.png"
   name             : "Thomas Finn"
   pronouns         : # example: "she/her"  
-  bio              : "Junior Data Scientist @ Featurespace"
-  location         : "Durham, UK"
-  employer         : "Durham University"
+  bio              : "Junior Data Scientist"
+  location         : "Cambridge, UK"
+  employer         : "Featurespace"
   uri              : # URL
   email            : "thomasjohnfinn1995@gmail.com" 
 
