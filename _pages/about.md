@@ -12,7 +12,7 @@ I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) whe
 
 Before joining Featurespace I researched strongly correlated random systems in postdoctoral positions at Durham University and the University of Bath.
 
-I completed my PhD at [SAMBa](https://samba.ac.uk/) investigating random competition models.
+I completed my PhD in mathematics at [SAMBa](https://samba.ac.uk/) under the supervision of [Alexandre Stauffer](https://sites.google.com/site/alexandrestauffer/home).
 
 ### Awards
 
