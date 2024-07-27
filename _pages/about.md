@@ -8,11 +8,11 @@ redirect_from:
 ---
 I'm a junior data scientist at [Featurespace](https://www.featurespace.com/) where I build machine learning models on large and dynamic datasets to prevent fraud in real-time. 
 
-## Mathematical research
+## Research Career
 
-Before joining Featurespace I researched strongly correlated random systems.
+Before joining Featurespace I researched strongly correlated random systems in postdoctoral research positions at Durham University and the University of Bath.
 
-I completed my PhD at the [SAMBa](https://samba.ac.uk/) centre for doctoral training in statistical applied mathematics and held postdoctoral research positions at Durham University and the University of Bath.
+I completed my PhD at the [SAMBa](https://samba.ac.uk/) centre for doctoral training in statistical applied mathematics.
 
 ### Awards
 
