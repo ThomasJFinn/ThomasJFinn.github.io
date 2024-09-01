@@ -12,9 +12,6 @@ main:
     
   - title: "CV"
     url: /files/ThomasFinn_Resume.pdf
-
-  - title: "Mathematics"
-    url: /mathematics/
     
   - title: "Chess"
     url: /chess/
