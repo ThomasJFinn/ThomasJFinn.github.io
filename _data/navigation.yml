@@ -13,9 +13,6 @@ main:
   - title: "CV"
     url: /files/ThomasFinn_Resume.pdf
 
-  - title: "Deep Learning"
-    url: /deeplearning/
-
   - title: "Mathematics"
     url: /mathematics/
     
